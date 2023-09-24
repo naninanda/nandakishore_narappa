@@ -1,9 +1,90 @@
-Hi good morning to all 
-my name is nanda kishore 
-i am completed my degree in tirupathi 2020
-studied in Bsc with 82%
-i am completed my 10+2 in tirupathi 2017
-studied in mpc with 83% 
-i am from madanapalli 
-i dont have experience
-i am fresher right know
+[200~#THIS IS MY SELF INTRODUCTION:-
+  
+ Good afternoon sir/madum,
+ I am NANDAKISHORE and I held from MADANAPALLI, whitch is located in CHITTOOR(D), ANDHRAPRADESH.
+
+  #PROFILE SUMMARY:-
+   
+   Having 2.10 years of experience in IT area comprising of configuration management, Deploy, CI/CD pipelines, AWS and DevOps methodologies.
+
+  #Professional Experience:-
+
+   Working as a DevOps Engineer at Genesis Infocom Private Ltd from November 2020 to till now.
+
+  #COMING TO MY QUALIFICATION:-
+
+    I had completed my SSC from ZPHS,BURAKAYALAKOTA after that +2 from BHUPAL JUNIOR COLLEGE,TIRUPATHI.
+    I completed my graduation from B.S.R DEGREE COLLEGE,TIRUPATHI.
+
+  #COMING TO MY TECHNICAL SKILLS:-
+     
+     1)Operating Systems: RedhatLinux(Ubuntu,Centos)
+
+     2)Version control system: GIT & GitHub
+
+     3)Continues Integation: Jenkins
+
+     4)Build Tool: Maven
+
+     5)Code Analysis: Sonarqube
+
+     6)Artifactory Storage: Sonatype Nexus
+
+     7)Web Application Server: Tomcat
+
+     8)Containaraization: Docker
+
+     9)Orchestration: Kubernetes,Docker Swarm
+
+     10)Infrastructure As Code: Terraform
+
+     11)Scripting Language: SHELL SCRIPTING
+
+     12)Configuration Management: ANSIBLE 
+
+     13)Cloud Services (AWS) :EC2, IAM, AMI, EBS, Snapshot, Launch Template,
+                              ELB, Cloud Watch, Auto Scaling, AWS S3, VPC, Route 53, EFS 
+
+   #PROJECTS:1
+
+     PROJECT NAME   :- Logical-ITCC
+     Client	    :- Verizon, US
+     Domain	    :- Telecom
+     Duration       :- January 2021 to till now
+     Role           :- DevOps Engineer
+     Environment :- Linux, Git, GitHub, Maven, Jenkins, SonarQube, Nexus, Apache Tomcat, AWS,Docker, Docker Swarm & Ansible.
+			       
+    Description:-
+               Logical-ITCC is data services Company and its providing services in many countries around the world including US. Logical-ITCC is Data service telecom project. The business executive should get a good overview of the daily transaction happing. For this the data from the switches should reach to the reporting tool, in a well formatted manner. So we created the environment to transaction the data after extraction. We have then to load it into appropriate destination database. To manage data generated from the source till, it is reflected in the report. We have created many environments which take care of the flow of data. This flow is monitored and managed by us at regular interval.
+
+   Roles & Responsibilities:
+
+				       Working on Incident & Change Management issues in Linux
+				       Monitoring and Managing CPU Utilization, Disk Utilization, Memory Utilization
+				       Installing/updating of software packages using Yum
+				       Providing SUDO access to the users and groups
+				       Automation of Jobs through Crontab
+				       Maintaining the source code in GIT for various applications
+				       Managed GIT branching, merging and tagging to facilitate defect/change management in conjunction within projects across the organization
+				       Maintain the Daily deployments on Dev, QA and Stage on time basis and based on Dev and QA team request
+				       Scripting & automating tasks using shell scripting for backup
+				       Automate Continuous Build and Deployment using Jenkins
+				       Maintaining the process document of Day-to-Day activities and keeping it at central location
+				       Creating the tickets & tracking the tickets Information using Ticketing Tools like JIRA
+				       Worked on Administration, maintenance and support of Red Hat Enterprise Linux (RHEL) servers.
+				       Creating CI/CD pipelines by integrating GIT, Maven, Docker and Kubernetes in Jenkins
+				       Creating the new build steps and Deploy setup for new project
+				       Creating the jobs and automate the pipeline for build and deployment to stage and prod
+				       Writing Docker Files for all Microservices in the applications
+				       Writing manifest files to deploy Microservice components into that Kubernetes cluster
+				       Writing service manifest files for all Microservice applications to access publicly
+				       Creating and managing Auto scaling for all application in the cluster
+				       Creating and managing ingress controller for amplifier application
+				       Responsible for managing the Docker private registry
+				       Creating Multiple AWS instances, set the security groups, Elastic Load Balancer and AMIs, Auto scaling to design cost effective, fault tolerant and highly available sys                			       Implemented rapid-provisioning and life-cycle management in AWS
+				        Stable build environments for product development
+				       Tickets related Infra issues raised using JIIRA. 
+				            
+
+					    $This is all about my self 
+					    $Thanks for giving this opportunityi
